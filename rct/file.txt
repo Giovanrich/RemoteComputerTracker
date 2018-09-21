@@ -1,0 +1,4 @@
+101.3.123.254|Nottinghum|Corporate Gateway
+101.144.125.250|Lonchinvar|Exchnage
+101.12.15.206|Lonchinvar|Terminal
+101.199.16.17|Nottinghum|Navision Server
